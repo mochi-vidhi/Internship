@@ -1,0 +1,36 @@
+footer.contact-info {
+  background-color: #2f3640; 
+  color: #ecf0f1; 
+  padding: 25px 40px;
+  text-align: center;
+  margin-top:15px
+  
+}
+
+footer.contact-info h3 {
+  margin-bottom: 15px;
+  font-size: 1.6rem;
+  color: #4cd137; 
+}
+
+footer.contact-info p {
+  margin: 8px 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+footer.contact-info strong {
+  font-weight: bold;
+}
+.contact-info.light {
+  background-color: #f8f9fa;
+  color: #222;
+  
+}
+
+.contact-info.dark {
+  background-color: #1e1e1e;
+  color: #ecf0f1;
+  
+}
+

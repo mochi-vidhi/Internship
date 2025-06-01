@@ -1,0 +1,110 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+
+.hero-section {
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 10%;
+  transition: background-color 0.4s, color 0.4s;
+  background: linear-gradient(to right, #f9f9f9, #e8f0ff);
+}
+
+.hero-content {
+  max-width: 600px;
+  animation: slideInLeft 1s ease-out;
+}
+
+.hero-content h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: #32012F;
+}
+
+.hero-content p {
+  font-size: 18px;
+  margin-bottom: 15px;
+  line-height: 1.7;
+  color: #555;
+}
+
+.hero-content h3 {
+  font-size: 22px;
+  color: #ff5722;
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.hero-btn {
+  padding: 14px 28px;
+  background-color: #27548A;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.3s, background-color 0.3s;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+.hero-btn:hover {
+  background-color: #670D2F;
+  transform: translateY(-2px);
+}
+
+.hero-section.dark {
+  background: #1a1a1a;
+  color: #f0f0f0;
+}
+
+.hero-section.dark h1,
+.hero-section.dark p {
+  color: #f0f0f0;
+}
+.hero-section.dark h3{
+    color:#C95792;
+}
+.hero-image {
+  animation: fadeIn 1.5s ease-in;
+}
+
+.hero-image img {
+  max-width: 420px;
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  transition: transform 0.4s ease;
+}
+
+.hero-image img:hover {
+  transform: scale(1.05);
+}
+
+
+@keyframes slideInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

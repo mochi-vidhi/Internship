@@ -1,0 +1,96 @@
+.service {
+  padding: 50px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  font-family: 'Poppins', sans-serif;
+}
+
+.service.dark {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.service h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: #333;
+}
+
+.service.dark h2 {
+  color: #f5f5f5;
+  text-shadow: 0 0 8px #00ffe1;
+}
+
+.service p {
+  max-width: 700px;
+  margin: 0 auto 40px auto;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #666;
+}
+
+.service.dark p {
+  color: #ccc;
+  text-shadow: 0 0 4px #666;
+}
+
+
+.service > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+}
+
+
+.service > div > div {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  max-width: 250px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.service.dark > div > div {
+  background-color: #2a2a2a;
+  color: #fff;
+  box-shadow: 0 4px 15px rgba(255, 255, 255, 0.05);
+}
+
+.service > div > div:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+.service img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+
+.service h3 {
+  font-size: 1.2rem;
+  margin: 10px 0 5px 0;
+  color: #222;
+}
+
+.service.dark h3 {
+  color: #ddd;
+}
+
+.service h4 {
+  font-size: 1rem;
+  color: #666;
+}
+
+.service.dark h4 {
+  color: #ccc;
+}

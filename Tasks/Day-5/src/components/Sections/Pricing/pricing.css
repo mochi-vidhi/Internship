@@ -1,0 +1,115 @@
+
+.pricing {
+  padding: 3rem 1rem;
+  text-align: center;
+  transition: background 0.5s ease, color 0.5s ease;
+}
+
+.pricing h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+
+.pricing > div:first-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+
+.price-card {
+  border-radius: 15px;
+  padding: 1.5rem 1rem;
+  width: 280px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: left;
+  position: relative;
+}
+
+.price-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.price-card h3 {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  font-weight: 600;
+}
+
+.price-card h4 {
+  font-size: 1.3rem;
+  margin: 0.3rem 0;
+  font-weight: 600;
+  color: #F05941;
+}
+
+.price-card img {
+  width: 40px;
+  margin-top: 0.5rem;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+.offer-box {
+  margin-top: 3rem;
+  background: linear-gradient(to right, #ffe29f, #ffa99f);
+  padding: 1.5rem;
+  border-radius: 12px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.offer-box p,
+.offer-box h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0.7rem 0;
+}
+.offer-box span{
+    color:red;
+}
+.offer-box h4{
+    color:#16610E
+}
+
+.pricing.light {
+  background: linear-gradient(to right, #f9f9f9, #e0f7fa);
+  color: #222;
+}
+
+.pricing.light .price-card {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+
+.pricing.dark {
+  background: #1a1a1a;
+  color: #eee;
+}
+.pricing.dark h2{
+   color: #f5f5f5;
+   text-shadow: 0 0 8px #00ffe1;
+}
+
+.pricing.dark .price-card {
+  background-color: #2c2c3c;
+  color: #f0f0f0;
+  border: 1px solid #444;
+}
+
+.pricing.dark .offer-box {
+  background: linear-gradient(to right, #ff9a9e, #fad0c4);
+  color: #2c2c2c;
+}

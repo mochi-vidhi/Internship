@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+.app.light {
+  background-color: #fafafa;
+  color: #111;
+}
+
+.app.dark {
+  background-color: #1a1a1a;
+  color: #fff;
+}
