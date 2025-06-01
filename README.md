@@ -16,19 +16,19 @@ Welcome to my internship Tasks
 
 ### ✅ Day 2: Exploring APIs and CRUD in React
 
-- 🔗 [View Day 2 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-2)
+- 🔗 [View Day 2 Task](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-2)
 
 ---
 
 ### ✅ Day 3: Todo List with CRUD & Search
 
-- 🔗 [View Day 3 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-3)
+- 🔗 [View Day 3 Task](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-3)
 
 ---
 
 ### ✅ Day 4: Weather App using OpenWeather API 🌦️
 
-- 🔗 [View Day 4 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-4)
+- 🔗 [View Day 4 Task](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-4)
 
 ---
 
