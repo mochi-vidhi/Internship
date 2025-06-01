@@ -1,7 +1,7 @@
 # Internship
 <hr/>
 
-# 💼 15 Days Internship Tasks – React JS 
+## 💼 15 Days Internship Tasks – React JS 
 
 Welcome to my internship Tasks 
 
@@ -16,26 +16,26 @@ Welcome to my internship Tasks
 
 ### ✅ Day 2: Exploring APIs and CRUD in React
 
-- 🔗 [View Day 2 Project](./Day-2-API-React-CRUD/README.md)
+- 🔗 [View Day 2 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-2)
 
 ---
 
 ### ✅ Day 3: Todo List with CRUD & Search
 
-- 🔗 [View Day 3 Project](./Day-3-Todo-Search-CRUD/README.md)
+- 🔗 [View Day 3 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-3)
 
 ---
 
 ### ✅ Day 4: Weather App using OpenWeather API 🌦️
 
-- 🔗 [View Day 4 Project](./Day-4-Weather-App/README.md)
+- 🔗 [View Day 4 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-4)
 
 ---
 
 ### ✅ Day 5: Kishor Tailor – Tailoring Business Website 👔
 
-- 🔗 [View Day 5 Project](./Day-5-Kishor-Tailor-Website/README.md)  
-- 🌐 [Live Site](https://kishor-tailor.netlify.app)
+- 🔗 [View Day 5 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-5) 
+- 🌐 [Live Site](https://kishortailor.netlify.app/)
 
 ---
 
