@@ -48,7 +48,8 @@ Each student document includes:
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if available)*
+> ![Screenshot 2025-05-27 003558](https://github.com/user-attachments/assets/68f2dcde-dd77-440b-90da-240ddb963ef3)
+
 
 ---
 
