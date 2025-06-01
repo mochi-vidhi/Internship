@@ -1,6 +1,6 @@
 # 🎓 Student Details System (React.js + Appwrite)
 
-This is a beginner-friendly student details system built using **React.js** for the frontend and **Appwrite** as the backend. It allows users to **store and view student details** such as **Name**, **Student ID**, **age**, and **Marks** .
+This is a beginner-friendly student details system built using **React.js** for the frontend and **Appwrite** as the backend. It allows users to **store and view student details** such as **Name**, **Student Field**, **age**, and **Marks** .
 
 ---
 
@@ -15,7 +15,7 @@ You don’t need to write server-side code — just connect your frontend to App
 
 ## 🔧 How Appwrite Works in This Project
 
-- **Database**: Used to store student records (name, ID, marks).
+- **Database**: Used to store student records (name, field, marks,age).
 - **Collections & Documents**: Each student is stored as a document inside a "Students" collection.
 - **SDK**: The Appwrite SDK is used in React to connect and perform CRUD operations.
 
@@ -32,9 +32,10 @@ You don’t need to write server-side code — just connect your frontend to App
 ## 🧑‍🎓 Student Details Structure
 
 Each student document includes:
-- 🆔 **Student ID**
 - 👤 **Name**
 - 📝 **Marks**
+- 🎂 **Age**
+- 🏫 **Field of Study**
 
 ---
 
