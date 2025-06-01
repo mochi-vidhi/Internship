@@ -17,13 +17,11 @@ A beautiful and responsive **Weather App** built in **React.js** using the [Open
 ## 🖼️ Preview
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home-page.png)
+![Screenshot 2025-06-01 185235](https://github.com/user-attachments/assets/138c1973-eaad-474c-8356-88e674bd3af0)
+
 
 ### 🌤️ Weather Page (City Search)
-![Search Weather](./screenshots/city-search.png)
-
-### 📍 Current Location Weather
-![Current Location](./screenshots/current-location.png)
+![Screenshot 2025-06-01 185311](https://github.com/user-attachments/assets/b3a59d88-26d1-4c00-bdc0-aa23c10b20b2)
 
 > 📌 Note: Save the above screenshots inside a `screenshots/` folder in your project directory.
 
