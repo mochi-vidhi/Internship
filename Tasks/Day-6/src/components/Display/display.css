@@ -1,0 +1,39 @@
+.display-container {
+  width: 80%;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #f4f4f4;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.review-heading {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.info-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.info-box h3 {
+  margin: 10px 0;
+  color: #444;
+}
+
+.btn-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.success-msg {
+  color: green;
+  margin-top: 20px;
+  font-weight: bold;
+}
