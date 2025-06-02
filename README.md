@@ -36,7 +36,12 @@ Welcome to my internship Tasks
 
 - 🔗 [View Day 5 Project](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-5) 
 - 🌐 [Live Site](https://kishortailor.netlify.app/)
+  
+---
+### ✅ Day 5: Multi-Step Form Wizard (React) 🔄
 
+- 🔗 [View Day 6 Task](https://github.com/mochi-vidhi/Internship/tree/main/Tasks/Day-6)
+- 
 ---
 
 ## 📚 Key Learnings So Far
